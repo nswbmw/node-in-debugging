@@ -18,10 +18,11 @@
   - [memwatch-next](https://github.com/nswbmw/node-in-debugging/blob/master/2.3%20memwatch-next.md)
   - [cpu-memory-monitor](https://github.com/nswbmw/node-in-debugging/blob/master/2.4%20cpu-memory-monitor.md)
 - 代码篇
-  - [Async + Await](https://github.com/nswbmw/node-in-debugging/blob/master/3.1%20Async%20%2B%20Await.md)
-  - [Error Stack](https://github.com/nswbmw/node-in-debugging/blob/master/3.2%20Error%20Stack.md)
-  - [Node@8](https://github.com/nswbmw/node-in-debugging/blob/master/3.3%20Node%408.md)
-  - [Rust Addons](https://github.com/nswbmw/node-in-debugging/blob/master/3.4%20Rust%20Addons.md)
+  - [Promise](https://github.com/nswbmw/node-in-debugging/blob/master/3.1%20Promise.md)
+  - [Async + Await](https://github.com/nswbmw/node-in-debugging/blob/master/3.2%20Async%20%2B%20Await.md)
+  - [Error Stack](https://github.com/nswbmw/node-in-debugging/blob/master/3.3%20Error%20Stack.md)
+  - [Node@8](https://github.com/nswbmw/node-in-debugging/blob/master/3.4%20Node%408.md)
+  - [Rust Addons](https://github.com/nswbmw/node-in-debugging/blob/master/3.5%20Rust%20Addons.md)
 - 调试篇
   - [Source Map](https://github.com/nswbmw/node-in-debugging/blob/master/4.1%20Source%20Map.md)
   - [Chrome DevTools](https://github.com/nswbmw/node-in-debugging/blob/master/4.2%20Chrome%20DevTools.md)
