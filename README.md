@@ -23,6 +23,7 @@
   - [Error Stack](https://github.com/nswbmw/node-in-debugging/blob/master/3.3%20Error%20Stack.md)
   - [Node@8](https://github.com/nswbmw/node-in-debugging/blob/master/3.4%20Node%408.md)
   - [Rust Addons](https://github.com/nswbmw/node-in-debugging/blob/master/3.5%20Rust%20Addons.md)
+  - [Event Loop](https://github.com/nswbmw/node-in-debugging/blob/master/3.6%20Event%20Loop.md)
 - 调试篇
   - [Source Map](https://github.com/nswbmw/node-in-debugging/blob/master/4.1%20Source%20Map.md)
   - [Chrome DevTools](https://github.com/nswbmw/node-in-debugging/blob/master/4.2%20Chrome%20DevTools.md)
