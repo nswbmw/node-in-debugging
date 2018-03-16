@@ -12,6 +12,7 @@
 - CPU 篇
   - [perf + FlameGraph](https://github.com/nswbmw/node-in-debugging/blob/master/1.1%20perf%20%2B%20FlameGraph.md)
   - [v8-profiler](https://github.com/nswbmw/node-in-debugging/blob/master/1.2%20v8-profiler.md)
+  - [Tick Processor](https://github.com/nswbmw/node-in-debugging/blob/master/1.3%20Tick%20Processor.md)
 - 内存篇
   - [gcore + llnode](https://github.com/nswbmw/node-in-debugging/blob/master/2.1%20gcore%20%2B%20llnode.md)
   - [heapdump](https://github.com/nswbmw/node-in-debugging/blob/master/2.2%20heapdump.md)
