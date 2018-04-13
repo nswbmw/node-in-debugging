@@ -25,6 +25,7 @@
   - [Node@8](https://github.com/nswbmw/node-in-debugging/blob/master/3.4%20Node%408.md)
   - [Rust Addons](https://github.com/nswbmw/node-in-debugging/blob/master/3.5%20Rust%20Addons.md)
   - [Event Loop](https://github.com/nswbmw/node-in-debugging/blob/master/3.6%20Event%20Loop.md)
+  - [uncaughtException + llnode](https://github.com/nswbmw/node-in-debugging/blob/master/3.7%20uncaughtException%20%2B%20llnode.md)
 - 工具篇
   - [Source Map](https://github.com/nswbmw/node-in-debugging/blob/master/4.1%20Source%20Map.md)
   - [Chrome DevTools](https://github.com/nswbmw/node-in-debugging/blob/master/4.2%20Chrome%20DevTools.md)
