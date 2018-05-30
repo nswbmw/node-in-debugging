@@ -1,6 +1,11 @@
-## node-in-debugging
-
-《Node.js 调试指南》是本人整理的从事 Node.js 开发这几年的一些调试经验和思路，希望授人以鱼也能授人以渔。
+<h1 align="center">
+<img src="./assets/book.jpg" alt="node-in-debugging" width="200" height="200" />
+<br>
+《Node.js 调试指南》
+</h1>
+<h4 align="center">
+<a href="http://product.dangdang.com/25278935.html">当当</a> | <a href="https://item.jd.com/12356929.html">京东</a> | <a href="https://s.taobao.com/search?q=Node.js%E8%B0%83%E8%AF%95%E6%8C%87%E5%8D%97">淘宝</a> | <a href="https://www.amazon.cn/dp/B07D57FDY4/">亚马逊</a> | <a href="http://product.china-pub.com/8004731">china-pub</a>
+</h4>
 
 ## 开发环境
 
@@ -47,9 +52,3 @@
 - 应用篇
   - [node-clinic](https://github.com/nswbmw/node-in-debugging/blob/master/8.1%20node-clinic.md)
   - [alinode](https://github.com/nswbmw/node-in-debugging/blob/master/8.2%20alinode.md)
-
-## 捐赠
-
-支付宝 | 微信
-------|------
-![](./assets/alipay.png) | ![](./assets/wechat.jpeg)
